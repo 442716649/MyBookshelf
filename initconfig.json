@@ -1,5 +1,5 @@
 {
-	"book_source_recommend_url": "https://www.ymoxuan.com",
+	"book_source_recommend_url": "http://api.zhuishushenqi.com",
 	"book_source_json_list": [{
 			"bookSourceGroup": "优+",
 			"bookSourceName": "库3",
