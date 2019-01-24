@@ -2,7 +2,7 @@
 	"book_source_recommend_url": "http://api.zhuishushenqi.com",
 	"book_source_json_list": [{
 			"bookSourceGroup": "优+",
-			"bookSourceName": "乐阅读_黑棱镜",
+			"bookSourceName": "库3",
 			"bookSourceUrl": "https://m.lread.net",
 			"enable": false,
 			"httpUserAgent": "",
@@ -29,7 +29,7 @@
 			"weight": 2539
 		}, {
 			"bookSourceGroup": "优+",
-			"bookSourceName": "笔趣宝③",
+			"bookSourceName": "库4",
 			"bookSourceUrl": "https://www.biqubao.com",
 			"enable": false,
 			"httpUserAgent": "",
@@ -57,7 +57,7 @@
 			"weight": 2572
 		}, {
 			"bookSourceGroup": "优+",
-			"bookSourceName": "幻月书院⑦",
+			"bookSourceName": "库5",
 			"bookSourceUrl": "http://www.huanyue123.com",
 			"enable": false,
 			"httpUserAgent": "",
@@ -85,7 +85,7 @@
 			"weight": 2541
 		}, {
 			"bookSourceGroup": "JSon",
-			"bookSourceName": "My176",
+			"bookSourceName": "库1",
 			"bookSourceUrl": "http://api.zhuishushenqi.com",
 			"enable": true,
 			"httpUserAgent": "ZhuiShuShenQi/3.67.5 (Android 8.1.0; Xiaomi Platina / Xiaomi MI 8; ????)[preload=false;locale=zh_CN;clientidbase=android-xiaomi]",
@@ -117,7 +117,7 @@
 			"weight": 0
 		}, {
 			"bookSourceGroup": "18禁",
-			"bookSourceName": "爱小说网🔞",
+			"bookSourceName": "库6",
 			"bookSourceUrl": "http://www.ixiaos.com",
 			"enable": false,
 			"httpUserAgent": "",
@@ -145,7 +145,7 @@
 			"weight": 9
 		}, {
 			"bookSourceGroup": "18禁",
-			"bookSourceName": "#一起色🔞~s5217.com",
+			"bookSourceName": "库7",
 			"bookSourceUrl": "http://www.s5217.com",
 			"enable": false,
 			"httpUserAgent": "",
@@ -173,7 +173,7 @@
 			"weight": 8
 		}, {
 			"bookSourceGroup": "18禁",
-			"bookSourceName": "UPU小说网🔞",
+			"bookSourceName": "库8",
 			"bookSourceUrl": "https://www.upu.cc",
 			"enable": false,
 			"httpUserAgent": "",
@@ -201,7 +201,7 @@
 			"weight": 8
 		}, {
 			"bookSourceGroup": "发现",
-			"bookSourceName": "衍墨轩",
+			"bookSourceName": "库2",
 			"bookSourceUrl": "https://www.ymoxuan.com",
 			"enable": false,
 			"httpUserAgent": "",
@@ -229,7 +229,7 @@
 			"weight": 10
 		}, {
 			"bookSourceGroup": "18禁",
-			"bookSourceName": "#你懂得(18)~120w.info",
+			"bookSourceName": "库9",
 			"bookSourceUrl": "http://www.120w.info",
 			"enable": false,
 			"httpUserAgent": "",
@@ -258,7 +258,7 @@
 			"weight": 20
 		}, {
 			"bookSourceGroup": "发现可用",
-			"bookSourceName": "新棉花糖co",
+			"bookSourceName": "库10",
 			"bookSourceUrl": "http://m.mianhuatang.co",
 			"enable": false,
 			"httpUserAgent": "",
@@ -286,7 +286,7 @@
 			"weight": 0
 		}, {
 			"bookSourceGroup": "18禁",
-			"bookSourceName": "破万卷🔞",
+			"bookSourceName": "库11",
 			"bookSourceUrl": "http://www.powanjuan.org",
 			"enable": false,
 			"httpUserAgent": "",
@@ -314,7 +314,7 @@
 			"weight": 10
 		}, {
 			"bookSourceGroup": "18禁",
-			"bookSourceName": "19小说🔞",
+			"bookSourceName": "库12",
 			"bookSourceUrl": "http://www.19xse.com",
 			"enable": false,
 			"httpUserAgent": "",
